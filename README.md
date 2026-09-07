@@ -1,6 +1,7 @@
 ## School Projects:
 
 [![Pseudovector](https://github-readme-stats.vercel.app/api/pin/?username=JamniorDev&repo=Pseudovector&theme=radial)](https://github.com/JamniorDev/Pseudovector)
+
 [![ApplePI](https://github-readme-stats.vercel.app/api/pin/?username=JamniorDev&repo=ApplePI&theme=radial)](https://github.com/JamniorDev/ApplePI)
 
 <!--
