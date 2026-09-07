@@ -1,6 +1,4 @@
-## School Projects:
-  -Pseudovector -> https://github.com/JamniorDev/Pseudovector
-  -ApplePI -> https://github.com/JamniorDev/ApplePI
+## HI
 
 <!--
 **Jamnior2009/Jamnior2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
