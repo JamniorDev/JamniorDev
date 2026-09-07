@@ -1,6 +1,7 @@
-## School Projects
+## School Projects:
 
-[![Repo Card](https://vercel.app)](https://github.com)
+[![Pseudovector](https://vercel.app)](https://github.com/JamniorDev/Pseudovector)
+[![ApplePI](https://vercel.app)](https://github.com/JamniorDev/ApplePI)
 
 <!--
 **Jamnior2009/Jamnior2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
