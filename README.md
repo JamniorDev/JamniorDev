@@ -1,7 +1,7 @@
 ## School Projects:
 
-[![Pseudovector](https://vercel.app)](https://github.com/JamniorDev/Pseudovector)
-[![ApplePI](https://vercel.app)](https://github.com/JamniorDev/ApplePI)
+[![Pseudovector](https://github-readme-stats.vercel.app/api/pin/?username=JamniorDev&repo=Pseudovector&theme=radial)](https://github.com/JamniorDev/Pseudovector)
+[![ApplePI](https://github-readme-stats.vercel.app/api/pin/?username=JamniorDev&repo=Pseudovector&theme=radial)](https://github.com/JamniorDev/ApplePI)
 
 <!--
 **Jamnior2009/Jamnior2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
