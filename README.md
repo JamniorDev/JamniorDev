@@ -1,4 +1,6 @@
-## Jamnior - hi
+## School Projects
+
+[![Repo Card](https://vercel.app)](https://github.com)
 
 <!--
 **Jamnior2009/Jamnior2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
